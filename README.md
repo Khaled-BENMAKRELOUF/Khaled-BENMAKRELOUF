@@ -63,7 +63,7 @@ h3 {
   
 <p style="font-size:100%; margin-top:0px margin-bottom:0px ; text-align:center; font-family:Times New Roman">Research Center in Applied Economics for Developement, CREAD <br>
  Street Djamal Eddine El-Afghani, Rostomia, Algiers 16011, Algeria<br>
-Phone: +213 23 18 00 88 |  e-mail: <a href="k.benmakrelouf@cread.dz" > farid.flici@cread.dz </p>
+Phone: +213 23 18 00 88 |  e-mail: <a href="k.benmakrelouf@cread.dz" > k.benmakrelouf@cread.dz </p>
 
 <hr>
 <p style="text-align:center; font-size:100%;font-family:Century Gothic"> <b>
