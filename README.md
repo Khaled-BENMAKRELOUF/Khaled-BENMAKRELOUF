@@ -99,5 +99,22 @@ Phone: +213 23 18 00 88 |  e-mail: <a href="k.benmakrelouf@cread.dz" > k.benmakr
 
 <img src="https://i1.rgstatic.net/ii/profile.image/742488822280193-1554034538354_Q512/Khaled-Benmakrelouf.jpg
 
-Khaled Benmakrelouf currently works at the Macroeconomics and Economic Integration Division, Centre for Research in Applied Economics for Development. Khaled does research in Public Economics, Monetary Economics and Macroeconomics.
+Khaled Benmakrelouf currently works at the Macroeconomics and Economic Integration Division, Centre for Research in Applied Economics for Development.
+
 </p>
+          
+<hr>   
+<h2 id="cv"> Curriculum Vitae </h2>
+
+<div align="center">
+
+<img src="https://github.com/Farid-FLICI/farid-flici.github.io/blob/y/CV1.png?raw=true" class="zoomA"/>
+<img src="https://github.com/Farid-FLICI/farid-flici.github.io/blob/y/CV2.png?raw=true" class="zoomA"/>
+<img src="https://github.com/Farid-FLICI/farid-flici.github.io/blob/y/CV3.png?raw=true" class="zoomA"/>
+<img src="https://github.com/Farid-FLICI/farid-flici.github.io/blob/y/CV4.png?raw=true" class="zoomA"/>
+
+</div>
+
+<div align="right">
+<button><a align="right" href="https://github.com/Farid-FLICI/farid-flici.github.io/raw/y/CV_Farid%20FLICI_31.05.2020.pdf"><b>Download CV (.pdf)</b></a> </button>
+</div>
